@@ -130,3 +130,11 @@ Xinlong Wang, Tete Xiao, Yuning Jiang, Shuai Shao, Jian Sun, Chunhua Shen
 12. VITAL: VIsual Tracking via Adversarial Learning
 Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau, Ming-Hsuan Yang
 [pdf] [arXiv] [bibtex]
+
+Learning Semantic Concepts and Order for Image and Sentence Matching
+Yan Huang, Qi Wu, Chunfeng Song, Liang Wang
+[pdf] [arXiv] [bibtex]
+
+Visual Grounding via Accumulated Attention
+Chaorui Deng, Qi Wu, Qingyao Wu, Fuyuan Hu, Fan Lyu, Mingkui Tan
+[pdf] [bibtex]
