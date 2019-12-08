@@ -111,3 +111,22 @@ Chao Ma, Chunhua Shen, Anthony Dick, Qi Wu, Peng Wang, Anton van den Hengel, Ian
 Bohan Zhuang, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid
 [pdf] [arXiv] [bibtex]
 
+8. Monocular Relative Depth Perception With Web Stereo Data Supervision
+Ke Xian, Chunhua Shen, Zhiguo Cao, Hao Lu, Yang Xiao, Ruibo Li, Zhenbo Luo
+[pdf] [bibtex]
+
+9. FSRNet: End-to-End Learning Face Super-Resolution With Facial Priors
+Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, Jian Yang
+[pdf] [arXiv] [bibtex]
+
+10. An End-to-End TextSpotter With Explicit Alignment and Attention
+Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun
+[pdf] [arXiv] [bibtex]
+
+11. Repulsion Loss: Detecting Pedestrians in a Crowd
+Xinlong Wang, Tete Xiao, Yuning Jiang, Shuai Shao, Jian Sun, Chunhua Shen
+[pdf] [supp] [arXiv] [bibtex]
+
+12. VITAL: VIsual Tracking via Adversarial Learning
+Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau, Ming-Hsuan Yang
+[pdf] [arXiv] [bibtex]
