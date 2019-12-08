@@ -7,7 +7,7 @@
 | ICRA       |2019 |Real-time, Semantic Segmentation, Depth Estimation|Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations |Vladimir Nekrasov, Thanuja Dharmasiri, Andrew Spek, Tom Drummond, Chunhua Shen and Ian Reid|https://github.com/DrSleep/multi-task-refinenet|https://www.youtube.com/watch?v=qwShIBhaq8Y&feature=youtu.be|
 
 
-CVPR 2019
+CVPR 2019  </br>
 TopNet: Structural Point Cloud Decoder
 Lyne P. Tchapmi, Vineet Kosaraju, Hamid Rezatofighi, Ian Reid, Silvio Savarese
 [pdf] [supp] [bibtex]
