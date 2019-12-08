@@ -139,7 +139,7 @@ Yan Huang, Qi Wu, Chunfeng Song, Liang Wang
 Chaorui Deng, Qi Wu, Qingyao Wu, Fuyuan Hu, Fan Lyu, Mingkui Tan
 [pdf] [bibtex]
 
-Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge
+15. Tips and Tricks for Visual Question Answering: Learnings From the 2017 Challenge
 Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel
 [pdf] [supp] [arXiv] [bibtex]
 
