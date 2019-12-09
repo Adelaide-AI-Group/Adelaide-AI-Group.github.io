@@ -144,40 +144,39 @@ Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel
 [pdf] [supp] [arXiv] [bibtex]
 
 ## CVPR 2017 </br>
-Attend in Groups: A Weakly-Supervised Deep Learning Framework for Learning From Web Data
+1. Attend in Groups: A Weakly-Supervised Deep Learning Framework for Learning From Web Data
 Bohan Zhuang, Lingqiao Liu, Yao Li, Chunhua Shen, Ian Reid
 [pdf] [arXiv] [bibtex]
 
-RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+2. RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
 Guosheng Lin, Anton Milan, Chunhua Shen, Ian Reid
 [pdf] [arXiv] [bibtex]
 
-From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur
+3. From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur
 Dong Gong, Jie Yang, Lingqiao Liu, Yanning Zhang, Ian Reid, Chunhua Shen, Anton van den Hengel, Qinfeng Shi
 [pdf] [arXiv] [poster] [bibtex]
 
-The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions
+4. The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions
 Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel
 [pdf] [bibtex]
 
-Sequential Person Recognition in Photo Albums With a Recurrent Network
+5. Sequential Person Recognition in Photo Albums With a Recurrent Network
 Yao Li, Guosheng Lin, Bohan Zhuang, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
 [pdf] [arXiv] [bibtex]
 
-Multi-Attention Network for One Shot Learning
+6. Multi-Attention Network for One Shot Learning
 Peng Wang, Lingqiao Liu, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen
 [pdf] [bibtex]
 
-Infinite Variational Autoencoder for Semi-Supervised Learning
+7. Infinite Variational Autoencoder for Semi-Supervised Learning
 M. Ehsan Abbasnejad, Anthony Dick, Anton van den Hengel
 [pdf] [supp] [arXiv] [bibtex]
 
-Graph-Structured Representations for Visual Question Answering
+8. Graph-Structured Representations for Visual Question Answering
 Damien Teney, Lingqiao Liu, Anton van den Hengel
 [pdf] [supp] [arXiv] [poster] [video] [bibtex]
 
-PoseTrack: Joint Multi-Person Pose Estimation and Tracking
+9. PoseTrack: Joint Multi-Person Pose Estimation and Tracking
 Umar Iqbal, Anton Milan, Juergen Gall
 [pdf] [arXiv] [bibtex]
-
 
