@@ -226,4 +226,75 @@ Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization
 Mingkui Tan, Shijie Xiao, Junbin Gao, Dong Xu, Anton van den Hengel, Qinfeng Shi
 [pdf] [bibtex]
 
+Guaranteed Outlier Removal With Mixed Integer Linear Programs
+Tat-Jun Chin, Yang Heng Kee, Anders Eriksson, Frank Neumann
+[pdf] [bibtex]
+
+A Consensus-Based Framework for Distributed Bundle Adjustment
+Anders Eriksson, John Bastian, Tat-Jun Chin, Mats Isaksson
+[pdf] [bibtex]
+
+Conformal Surface Alignment With Optimal Mobius Search
+Huu Le, Tat-Jun Chin, David Suter
+[pdf] [bibtex]
+
+
+
+
+## CVPR2015
+The k-Support Norm and Convex Envelopes of Cardinality and Rank
+Anders Eriksson, Trung Thanh Pham, Tat-Jun Chin, Ian Reid
+[pdf] [bibtex]
+
+Joint Tracking and Segmentation of Multiple Targets
+Anton Milan, Laura Leal-Taixe, Konrad Schindler, Ian Reid
+[pdf] [bibtex]
+
+Supervised Discrete Hashing
+Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen
+[pdf] [bibtex]
+
+
+Mid-Level Deep Pattern Mining
+Yao Li, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
+[pdf] [bibtex]
+
+Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs
+Bo Li, Chunhua Shen, Yuchao Dai, Anton van den Hengel, Mingyi He
+[pdf] [bibtex]
+
+Learning to Rank in Person Re-Identification With Metric Ensembles
+Sakrapee Paisitkriangkrai, Chunhua Shen, Anton van den Hengel
+[pdf] [bibtex]
+
+Efficient SDP Inference for Fully-Connected CRFs Based on Low-Rank Decomposition
+Peng Wang, Chunhua Shen, Anton van den Hengel
+[pdf] [bibtex]
+
+Learning Graph Structure for Multi-Label Image Classification via Clique Generation
+Mingkui Tan, Qinfeng Shi, Anton van den Hengel, Chunhua Shen, Junbin Gao, Fuyuan Hu, Zhen Zhang
+[pdf] [bibtex]
+
+The Treasure Beneath Convolutional Layers: Cross-Convolutional-Layer Pooling for Image Classification
+Lingqiao Liu, Chunhua Shen, Anton van den Hengel
+[pdf] [bibtex]
+
+Deep Convolutional Neural Fields for Depth Estimation From a Single Image
+Fayao Liu, Chunhua Shen, Guosheng Lin
+[pdf] [bibtex]
+
+Part-Based Modelling of Compound Scenes From Images
+Anton van den Hengel, Chris Russell, Anthony Dick, John Bastian, Daniel Pooley, Lachlan Fleming, Lourdes Agapito
+[pdf] [bibtex]
+
+Robust Multiple Homography Estimation: An Ill-Solved Problem
+Zygmunt L. Szpak, Wojciech Chojnacki, Anton van den Hengel
+[pdf] [bibtex]
+
+
+Efficient Globally Optimal Consensus Maximisation With Tree Search
+Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
+[pdf] [bibtex]
+
+
 
