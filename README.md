@@ -176,3 +176,8 @@ Graph-Structured Representations for Visual Question Answering
 Damien Teney, Lingqiao Liu, Anton van den Hengel
 [pdf] [supp] [arXiv] [poster] [video] [bibtex]
 
+PoseTrack: Joint Multi-Person Pose Estimation and Tracking
+Umar Iqbal, Anton Milan, Juergen Gall
+[pdf] [arXiv] [bibtex]
+
+
