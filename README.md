@@ -180,3 +180,50 @@ Damien Teney, Lingqiao Liu, Anton van den Hengel
 Umar Iqbal, Anton Milan, Juergen Gall
 [pdf] [arXiv] [bibtex]
 
+## CVPR 2016 </br>
+Joint Probabilistic Matching Using m-Best Solutions
+Seyed Hamid Rezatofighi, Anton Milan, Zhen Zhang, Qinfeng Shi, Anthony Dick, Ian Reid
+[pdf] [bibtex]
+
+Efficient Point Process Inference for Large-Scale Object Detection
+Trung T. Pham, Seyed Hamid Rezatofighi, Ian Reid, Tat-Jun Chin
+[pdf] [bibtex]
+
+Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
+Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid
+[pdf] [bibtex]
+
+Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions
+Vijay Kumar B G, Gustavo Carneiro, Ian Reid
+[pdf] [bibtex]
+
+Fast Training of Triplet-Based Deep Binary Embedding Networks
+Bohan Zhuang, Guosheng Lin, Chunhua Shen, Ian Reid
+[pdf] [bibtex]
+
+What's Wrong With That Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution
+Peng Wang, Lingqiao Liu, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen
+[pdf] [bibtex]
+
+Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression
+Ruizhi Qiao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
+[pdf] [bibtex]
+
+
+Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge From External Sources
+Qi Wu, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel
+[pdf] [bibtex]
+
+Pairwise Matching Through Max-Weight Bipartite Belief Propagation
+Zhen Zhang, Qinfeng Shi, Julian McAuley, Wei Wei, Yanning Zhang, Anton van den Hengel
+[pdf] [bibtex]
+
+Blind Image Deconvolution by Automatic Gradient Activation
+Dong Gong, Mingkui Tan, Yanning Zhang, Anton van den Hengel, Qinfeng Shi
+[pdf] [bibtex]
+
+Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization
+Mingkui Tan, Shijie Xiao, Junbin Gao, Dong Xu, Anton van den Hengel, Qinfeng Shi
+[pdf] [bibtex]
+
+
