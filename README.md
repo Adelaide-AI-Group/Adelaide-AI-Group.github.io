@@ -181,60 +181,60 @@ Umar Iqbal, Anton Milan, Juergen Gall
 [pdf] [arXiv] [bibtex]
 
 ## CVPR 2016 </br>
-Joint Probabilistic Matching Using m-Best Solutions
+1. Joint Probabilistic Matching Using m-Best Solutions
 Seyed Hamid Rezatofighi, Anton Milan, Zhen Zhang, Qinfeng Shi, Anthony Dick, Ian Reid
 [pdf] [bibtex]
 
-Efficient Point Process Inference for Large-Scale Object Detection
+2. Efficient Point Process Inference for Large-Scale Object Detection
 Trung T. Pham, Seyed Hamid Rezatofighi, Ian Reid, Tat-Jun Chin
 [pdf] [bibtex]
 
-Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
+3. Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
 Guosheng Lin, Chunhua Shen, Anton van den Hengel, Ian Reid
 [pdf] [bibtex]
 
-Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions
+4. Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions
 Vijay Kumar B G, Gustavo Carneiro, Ian Reid
 [pdf] [bibtex]
 
-Fast Training of Triplet-Based Deep Binary Embedding Networks
+5. Fast Training of Triplet-Based Deep Binary Embedding Networks
 Bohan Zhuang, Guosheng Lin, Chunhua Shen, Ian Reid
 [pdf] [bibtex]
 
-What's Wrong With That Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution
+6. What's Wrong With That Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution
 Peng Wang, Lingqiao Liu, Chunhua Shen, Zi Huang, Anton van den Hengel, Heng Tao Shen
 [pdf] [bibtex]
 
-Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression
+7. Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression
 Ruizhi Qiao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
 [pdf] [bibtex]
 
 
-Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge From External Sources
+8. Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge From External Sources
 Qi Wu, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel
 [pdf] [bibtex]
 
-Pairwise Matching Through Max-Weight Bipartite Belief Propagation
+9. Pairwise Matching Through Max-Weight Bipartite Belief Propagation
 Zhen Zhang, Qinfeng Shi, Julian McAuley, Wei Wei, Yanning Zhang, Anton van den Hengel
 [pdf] [bibtex]
 
-Blind Image Deconvolution by Automatic Gradient Activation
+10. Blind Image Deconvolution by Automatic Gradient Activation
 Dong Gong, Mingkui Tan, Yanning Zhang, Anton van den Hengel, Qinfeng Shi
 [pdf] [bibtex]
 
-Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization
+11. Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization
 Mingkui Tan, Shijie Xiao, Junbin Gao, Dong Xu, Anton van den Hengel, Qinfeng Shi
 [pdf] [bibtex]
 
-Guaranteed Outlier Removal With Mixed Integer Linear Programs
+12. Guaranteed Outlier Removal With Mixed Integer Linear Programs
 Tat-Jun Chin, Yang Heng Kee, Anders Eriksson, Frank Neumann
 [pdf] [bibtex]
 
-A Consensus-Based Framework for Distributed Bundle Adjustment
+13. A Consensus-Based Framework for Distributed Bundle Adjustment
 Anders Eriksson, John Bastian, Tat-Jun Chin, Mats Isaksson
 [pdf] [bibtex]
 
-Conformal Surface Alignment With Optimal Mobius Search
+14. Conformal Surface Alignment With Optimal Mobius Search
 Huu Le, Tat-Jun Chin, David Suter
 [pdf] [bibtex]
 
@@ -242,59 +242,57 @@ Huu Le, Tat-Jun Chin, David Suter
 
 
 ## CVPR2015
-The k-Support Norm and Convex Envelopes of Cardinality and Rank
+1. The k-Support Norm and Convex Envelopes of Cardinality and Rank
 Anders Eriksson, Trung Thanh Pham, Tat-Jun Chin, Ian Reid
 [pdf] [bibtex]
 
-Joint Tracking and Segmentation of Multiple Targets
+2. Joint Tracking and Segmentation of Multiple Targets
 Anton Milan, Laura Leal-Taixe, Konrad Schindler, Ian Reid
 [pdf] [bibtex]
 
-Supervised Discrete Hashing
+3. Supervised Discrete Hashing
 Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen
 [pdf] [bibtex]
 
 
-Mid-Level Deep Pattern Mining
+4. Mid-Level Deep Pattern Mining
 Yao Li, Lingqiao Liu, Chunhua Shen, Anton van den Hengel
 [pdf] [bibtex]
 
-Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs
+5. Depth and Surface Normal Estimation From Monocular Images Using Regression on Deep Features and Hierarchical CRFs
 Bo Li, Chunhua Shen, Yuchao Dai, Anton van den Hengel, Mingyi He
 [pdf] [bibtex]
 
-Learning to Rank in Person Re-Identification With Metric Ensembles
+6. Learning to Rank in Person Re-Identification With Metric Ensembles
 Sakrapee Paisitkriangkrai, Chunhua Shen, Anton van den Hengel
 [pdf] [bibtex]
 
-Efficient SDP Inference for Fully-Connected CRFs Based on Low-Rank Decomposition
+7. Efficient SDP Inference for Fully-Connected CRFs Based on Low-Rank Decomposition
 Peng Wang, Chunhua Shen, Anton van den Hengel
 [pdf] [bibtex]
 
-Learning Graph Structure for Multi-Label Image Classification via Clique Generation
+8. Learning Graph Structure for Multi-Label Image Classification via Clique Generation
 Mingkui Tan, Qinfeng Shi, Anton van den Hengel, Chunhua Shen, Junbin Gao, Fuyuan Hu, Zhen Zhang
 [pdf] [bibtex]
 
-The Treasure Beneath Convolutional Layers: Cross-Convolutional-Layer Pooling for Image Classification
+9. The Treasure Beneath Convolutional Layers: Cross-Convolutional-Layer Pooling for Image Classification
 Lingqiao Liu, Chunhua Shen, Anton van den Hengel
 [pdf] [bibtex]
 
-Deep Convolutional Neural Fields for Depth Estimation From a Single Image
+10 Deep Convolutional Neural Fields for Depth Estimation From a Single Image
 Fayao Liu, Chunhua Shen, Guosheng Lin
 [pdf] [bibtex]
 
-Part-Based Modelling of Compound Scenes From Images
+11. Part-Based Modelling of Compound Scenes From Images
 Anton van den Hengel, Chris Russell, Anthony Dick, John Bastian, Daniel Pooley, Lachlan Fleming, Lourdes Agapito
 [pdf] [bibtex]
 
-Robust Multiple Homography Estimation: An Ill-Solved Problem
+12. Robust Multiple Homography Estimation: An Ill-Solved Problem
 Zygmunt L. Szpak, Wojciech Chojnacki, Anton van den Hengel
 [pdf] [bibtex]
 
 
-Efficient Globally Optimal Consensus Maximisation With Tree Search
+13. Efficient Globally Optimal Consensus Maximisation With Tree Search
 Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
 [pdf] [bibtex]
-
-
 
