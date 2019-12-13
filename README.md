@@ -289,3 +289,31 @@ Zygmunt L. Szpak, Wojciech Chojnacki, Anton van den Hengel
 Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
 [pdf] [bibtex]
 
+---
+## ICCV 2015
+1. Scalable Place Recognition Under Appearance Change for Autonomous Driving Anh-Dzung Doan, Yasir Latif, Tat-Jun Chin, Yu Liu, Thanh-Toan Do, Ian Reid [pdf] [supp] [bibtex]
+
+2. Exploiting Temporal Consistency for Real-Time Video Depth Estimation Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan [pdf] [bibtex]
+
+3. Indices Matter: Learning to Index for Deep Image Matting Hao Lu, Yutong Dai, Chunhua Shen, Songcen Xu [pdf] [supp] [bibtex]
+
+4. Enforcing Geometric Constraints of Virtual Normal for Depth Prediction Wei Yin, Yifan Liu, Chunhua Shen, Youliang Yan [pdf] [bibtex]
+
+5. Self-Training With Progressive Augmentation for Unsupervised Cross-Domain Person Re-Identification Xinyu Zhang, Jiewei Cao, Chunhua Shen, Mingyu You [pdf] [supp] [bibtex]
+
+6. From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen [pdf] [supp] [bibtex]
+
+7. Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network Wenhai Wang, Enze Xie, Xiaoge Song, Yuhang Zang, Wenjia Wang, Tong Lu, Gang Yu, Chunhua Shen [pdf] [supp] [bibtex]
+
+8. FCOS: Fully Convolutional One-Stage Object Detection Zhi Tian, Chunhua Shen, Hao Chen, Tong He [pdf] [bibtex]
+
+9. Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel [pdf] [bibtex]
+
+10. Consensus Maximization Tree Search Revisited Zhipeng Cai, Tat-Jun Chin, Vladlen Koltun [pdf] [bibtex]
+
+11. Scalable Place Recognition Under Appearance Change for Autonomous Driving Anh-Dzung Doan, Yasir Latif, Tat-Jun Chin, Yu Liu, Thanh-Toan Do, Ian Reid [pdf] [supp] [bibtex]
+
+12. New Convex Relaxations for MRF Inference With Unknown Graphs Zhenhua Wang, Tong Liu, Qinfeng Shi, M. Pawan Kumar, Jianhua Zhang [pdf] [supp] [bibtex]
+
+13. Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel [pdf] [bibtex] 
+
