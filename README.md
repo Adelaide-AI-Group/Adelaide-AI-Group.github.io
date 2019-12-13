@@ -289,3 +289,26 @@ Zygmunt L. Szpak, Wojciech Chojnacki, Anton van den Hengel
 Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
 [pdf] [bibtex]
 
+---
+## ECCV2018
+1. Visual Question Answering as a Meta Learning Task Damien Teney, Anton van den Hengel [pdf] [bibtex]
+
+2. Goal-Oriented Visual Question Generation via Intermediate Rewards Junjie Zhang, Qi Wu, Chunhua Shen, Jian Zhang, Jianfeng Lu, Anton van den Hengel [pdf] [bibtex]
+
+3. Learning to Predict Crisp Boundaries Ruoxi Deng, Chunhua Shen, Shengjun Liu, Huibing Wang, Xinru Liu [pdf] [bibtex]
+
+4. Bayesian Semantic Instance Segmentation in Open Set World Trung Pham, Vijay Kumar B. G., Thanh-Toan Do, Gustavo Carneiro, Ian Reid [pdf] [bibtex]
+
+5. Multi-modal Cycle-consistent Generalized Zero-Shot Learning Rafael Felix, Vijay Kumar B. G., Ian Reid, Gustavo Carneiro [pdf] [bibtex]
+
+6. Deep Regression Tracking with Shrinkage Loss Xiankai Lu, Chao Ma, Bingbing Ni, Xiaokang Yang, Ian Reid, Ming-Hsuan Yang [pdf] [bibtex]
+
+7. Efficient Dense Point Cloud Object Reconstruction using Deformation Vector Fields Kejie Li, Trung Pham, Huangying Zhan, Ian Reid [pdf] [bibtex]
+
+8. Seeing Deeply and Bidirectionally: A Deep Learning Approach for Single Image Reflection Removal Jie Yang, Dong Gong, Lingqiao Liu, Qinfeng Shi [pdf] [bibtex]
+
+9. Deblurring Natural Image Using Super-Gaussian Fields Yuhang Liu, Wenyong Dong, Dong Gong, Lei Zhang, Qinfeng Shi [pdf] [bibtex]
+
+10. Deterministic Consensus Maximization with Biconvex Programming Zhipeng Cai, Tat-Jun Chin, Huu Le, David Suter [pdf] [bibtex]
+
+11. Robust fitting in computer vision: easy or hard?  Tat-Jun Chin, Zhipeng Cai, Frank Neumann [pdf] [bibtex]
