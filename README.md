@@ -288,8 +288,37 @@ Zygmunt L. Szpak, Wojciech Chojnacki, Anton van den Hengel
 13. Efficient Globally Optimal Consensus Maximisation With Tree Search
 Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
 [pdf] [bibtex]
-
 ---
+
+
+ICCV 2015
+Scalable Place Recognition Under Appearance Change for Autonomous Driving Anh-Dzung Doan, Yasir Latif, Tat-Jun Chin, Yu Liu, Thanh-Toan Do, Ian Reid [pdf] [supp] [bibtex]
+
+Exploiting Temporal Consistency for Real-Time Video Depth Estimation Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan [pdf] [bibtex]
+
+Indices Matter: Learning to Index for Deep Image Matting Hao Lu, Yutong Dai, Chunhua Shen, Songcen Xu [pdf] [supp] [bibtex]
+
+Enforcing Geometric Constraints of Virtual Normal for Depth Prediction Wei Yin, Yifan Liu, Chunhua Shen, Youliang Yan [pdf] [bibtex]
+
+Self-Training With Progressive Augmentation for Unsupervised Cross-Domain Person Re-Identification Xinyu Zhang, Jiewei Cao, Chunhua Shen, Mingyu You [pdf] [supp] [bibtex]
+
+From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen [pdf] [supp] [bibtex]
+
+Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network Wenhai Wang, Enze Xie, Xiaoge Song, Yuhang Zang, Wenjia Wang, Tong Lu, Gang Yu, Chunhua Shen [pdf] [supp] [bibtex]
+
+FCOS: Fully Convolutional One-Stage Object Detection Zhi Tian, Chunhua Shen, Hao Chen, Tong He [pdf] [bibtex]
+
+Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel [pdf] [bibtex]
+
+Consensus Maximization Tree Search Revisited Zhipeng Cai, Tat-Jun Chin, Vladlen Koltun [pdf] [bibtex]
+
+Scalable Place Recognition Under Appearance Change for Autonomous Driving Anh-Dzung Doan, Yasir Latif, Tat-Jun Chin, Yu Liu, Thanh-Toan Do, Ian Reid [pdf] [supp] [bibtex]
+
+New Convex Relaxations for MRF Inference With Unknown Graphs Zhenhua Wang, Tong Liu, Qinfeng Shi, M. Pawan Kumar, Jianhua Zhang [pdf] [supp] [bibtex]
+
+Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel [pdf] [bibtex]
+
+----
 ## ECCV2016
 1. Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue, Ravi Garg, University of Adelaide; Vijay Kumar, University of Adelaide; Gustavo Carneiro, University of Adelaide; Ian Reid, University of Adelaide
 
