@@ -291,7 +291,7 @@ Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
 ---
 
 
-##ICCV 2019
+## ICCV2019
 Scalable Place Recognition Under Appearance Change for Autonomous Driving Anh-Dzung Doan, Yasir Latif, Tat-Jun Chin, Yu Liu, Thanh-Toan Do, Ian Reid [pdf] [supp] [bibtex]
 
 Exploiting Temporal Consistency for Real-Time Video Depth Estimation Haokui Zhang, Chunhua Shen, Ying Li, Yuanzhouhan Cao, Yu Liu, Youliang Yan [pdf] [bibtex]
