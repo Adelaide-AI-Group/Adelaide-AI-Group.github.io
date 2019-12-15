@@ -319,6 +319,36 @@ New Convex Relaxations for MRF Inference With Unknown Graphs Zhenhua Wang, Tong 
 Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel [pdf] [bibtex]
 
 ----
+## ICCV 2017
+1. Towards Context-Aware Interaction Recognition for Visual Relationship Detection
+Bohan Zhuang, Lingqiao Liu, Chunhua Shen, Ian Reid
+
+2. "Maximizing Rigidity" Revisited: A Convex Programming Approach for Generic 3D Shape Reconstruction From Multiple Perspective Views
+Pan Ji, Hongdong Li, Yuchao Dai, Ian Reid
+
+3. Smart Mining for Deep Metric Learning
+Ben Harwood, Vijay Kumar B G, Gustavo Carneiro, Ian Reid, Tom Drummond
+
+4. DeepSetNet: Predicting Sets With Deep Neural Networks
+S. Hamid Rezatofighi, Vijay Kumar B G, Anton Milan, Ehsan Abbasnejad, Anthony Dick, Ian Reid
+
+5. When Unsupervised Domain Adaptation Meets Tensor Representations
+Hao Lu, Lei Zhang, Zhiguo Cao, Wei Wei, Ke Xian, Chunhua Shen, Anton van den Hengel
+
+6. Adversarial PoseNet: A Structure-Aware Convolutional Network for Human Pose Estimation
+Yu Chen, Chunhua Shen, Xiu-Shen Wei, Lingqiao Liu, Jian Yang
+
+7. Towards End-To-End Text Spotting With Convolutional Recurrent Neural Networks
+Hui Li, Peng Wang, Chunhua Shen
+
+8. Semi-Global Weighted Least Squares in Image Filtering
+Hui Li, Peng Wang, Chunhua Shen
+
+9. Quasiconvex Plane Sweep for Triangulation With Outliers
+Qianggong Zhang, Tat-Jun Chin, David Suter
+
+
+----
 ## ECCV2016
 1. Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue, Ravi Garg, University of Adelaide; Vijay Kumar, University of Adelaide; Gustavo Carneiro, University of Adelaide; Ian Reid, University of Adelaide
 
