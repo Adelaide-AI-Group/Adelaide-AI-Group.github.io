@@ -6,15 +6,18 @@
 ## Staff
 Ian Reid  (Since 2012): SLAM   </br>
 David Suter (left since 2017): Optimization </br> 
+Anton van den Hengel: VQA  </br>
 Chunhua Shen: Segmentation </br>
 Tat-Jun Chin: Optimization </br>
 Anthony Dick: Tracking     </br>
 Qinfeng Shi: Graph Model   </br>
 Lingqiao Liu: Semi-supervised Learning </br>
-Anton van den Hengel: VQA  </br>
 Qi Wu: VQA   </br>
-Mingyu Guo: Game Theory  </br>
+
+
 Frank Neumann: Optimization  </br>
+Mingyu Guo: Game Theory  </br>
+
 
 
 
