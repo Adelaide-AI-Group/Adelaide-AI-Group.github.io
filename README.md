@@ -35,7 +35,7 @@ Mingyu Guo: Game Theory  </br>
 
 IROS
 
-NIPS
+[NIPS 2019-2008](https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io/blob/master/NIPS%202019-2008.md)
 
 ICML
 
