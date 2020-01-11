@@ -55,10 +55,11 @@ one of the maintainers with your github account to join the group. [Adelaide AI 
 If you don't have experience in AI but would love to know, to learn, to dicuss something, you are welcome to join our [Adelaide AI Group (Facebook)](https://www.facebook.com/groups/776160662842617/)  
 
 
-## Maintainers
-Yu Liu, Zhi Tian, Xiaowei Wang, Qiaoyang Luo, Rahul Verma
 
 
 ## Volunteer and Feedback
 Every contribution(suggestion, advice, comments) is welcome. Please drop an email to open.adelaide@gmail.com.
 
+-----
+## Maintainers
+Yu Liu, Zhi Tian, Xiaowei Wang, Qiaoyang Luo, Rahul Verma
