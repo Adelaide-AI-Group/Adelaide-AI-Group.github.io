@@ -51,7 +51,7 @@ Mingyu Guo: Game Theory  </br>
 [(SSC) Depth Based Semantic Scene Completion with Position Importance Aware Loss (RAL'19)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [(Synthetic Tool) G2D: from GTA to Data](https://github.com/Adelaide-AI-Group/G2D)
 
-[(Place Recognition) Visual Localization Under Appearance Change: A Filtering Approach(DICTA 2019 Best paper) 
+[(Place Recognition) Visual Localization Under Appearance Change: A Filtering Approach(DICTA 2019 Best paper)](https://github.com/Adelaide-AI-Group/MCVL) 
 
 ## Join/Contribute the Group
 If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
