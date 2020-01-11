@@ -61,5 +61,5 @@ If you don't have experience in AI but would love to know, to learn, to dicuss s
 Every contribution(suggestion, advice, comments) is welcome. Please drop an email to open.adelaide@gmail.com.
 
 -----
-## Maintainers
+## Support
 Yu Liu, Zhi Tian, Xiaowei Wang, Qiaoyang Luo, Rahul Verma
