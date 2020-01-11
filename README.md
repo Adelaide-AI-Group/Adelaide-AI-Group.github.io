@@ -46,8 +46,7 @@ Mingyu Guo: Game Theory  </br>
 
 ## Open Source Code
 
-### Detection
-[FOCUS](https://github.com/Adelaide-AI-Group/FCOS)
+[FOCUS: Fully Convolutional One-Stage Object Detection (ICCV'19)](https://github.com/Adelaide-AI-Group/FCOS)
  
  
 ## Join the group
