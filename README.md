@@ -49,13 +49,13 @@ Please back to parent directory for checking.
  
  
 ## Join the group
-If you are a research student (Ph.D, PostDoc, Visiting student) and work in AI related field from Adelaide. Please contact
+If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
 one of the maintainers with your github account to join the group. [Adelaide AI Group (Github)](https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io)
 
 If you are  
 
 
-## Acknowledgement
+## Maintainers
 Yu Liu, Zhi Tian, Xiaowei Wang, Qiaoyang Luo, Rahul Verma
 
 
