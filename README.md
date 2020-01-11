@@ -45,7 +45,9 @@ Mingyu Guo: Game Theory  </br>
 [IJCAI 2019-2011](https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io/blob/master/IJCAI%202019-2011.md)
 
 ## Open Source Code
-[FOCUS(detection)](https://github.com/Adelaide-AI-Group/FCOS)
+
+### Detection
+[FOCUS](https://github.com/Adelaide-AI-Group/FCOS)
  
  
 ## Join the group
