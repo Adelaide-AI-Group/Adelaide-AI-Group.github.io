@@ -52,7 +52,7 @@ Please back to parent directory for checking.
 If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
 one of the maintainers with your github account to join the group. [Adelaide AI Group (Github)](https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io)
 
-If you don't have experience in AI but would love to know, to learn or dicuss something, you are welcome to join our [Adelaide AI Group (Facebook)](https://www.facebook.com/groups/776160662842617/)  
+If you don't have experience in AI but would love to know, to learn, to dicuss something, you are welcome to join our [Adelaide AI Group (Facebook)](https://www.facebook.com/groups/776160662842617/)  
 
 
 ## Maintainers
