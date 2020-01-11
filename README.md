@@ -48,7 +48,7 @@ Mingyu Guo: Game Theory  </br>
 ## Open Source Code
 
 [(Detection) FOCUS](https://github.com/Adelaide-AI-Group/FCOS) </br>
-[(SSC} PALNet](https://github.com/Adelaide-AI-Group/PALNet) </br>
+[(SSC) PALNet](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [(Synthetic Tool) G2D](https://github.com/Adelaide-AI-Group/G2D)
 
 [(Place Recognition) Visual Localization Under Appearance Change: A Filtering Approach(DICTA 2019 Best paper)](https://github.com/Adelaide-AI-Group/MCVL) 
