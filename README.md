@@ -50,7 +50,9 @@ Mingyu Guo: Game Theory  </br>
 [(Detection) FOCUS: Fully Convolutional One-Stage Object Detection (ICCV'19)](https://github.com/Adelaide-AI-Group/FCOS) </br>
 [(SSC) Depth Based Semantic Scene Completion with Position Importance Aware Loss (RAL'19)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [(Synthetic Tool) G2D: from GTA to Data](https://github.com/Adelaide-AI-Group/G2D)
- 
+
+[(Place Recognition) Visual Localization Under Appearance Change: A Filtering Approach(DICTA 2019 Best paper) 
+
 ## Join/Contribute the Group
 If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
 one of the maintainers with your github account to join the group. [Adelaide AI Group (Github)](https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io)
