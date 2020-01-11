@@ -48,7 +48,7 @@ Mingyu Guo: Game Theory  </br>
 ## Open Source Code
 
 [(Detection) FOCUS: Fully Convolutional One-Stage Object Detection (ICCV'19)](https://github.com/Adelaide-AI-Group/FCOS) </br>
-[(SSC) Depth Based Semantic Scene Completion with Position Importance Aware Loss (RAL'19)](https://github.com/Adelaide-AI-Group/PALNet) 
+[(SSC) Depth Based Semantic Scene Completion with Position Importance Aware Loss (RAL'19)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [(Synthetic Tool) G2D: from GTA to Data](https://github.com/Adelaide-AI-Group/G2D)
  
 ## Join/Contribute the Group
