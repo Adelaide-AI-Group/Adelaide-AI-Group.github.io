@@ -51,7 +51,7 @@ Mingyu Guo: Game Theory  </br>
 [PALNet (SSC)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [G2D (Synthetic Tool)](https://github.com/Adelaide-AI-Group/G2D) </br>
 [MCVL (Place Recognition)](https://github.com/Adelaide-AI-Group/MCVL) </br>
-[ST-CLSM (Video Depth Estimation)] (https://github.com/Adelaide-AI-Group/ST-CLSTM)
+[ST-CLSM (Video Depth Estimation)](https://github.com/Adelaide-AI-Group/ST-CLSTM)
 
 ## Join/Contribute the Group
 If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
