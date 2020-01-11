@@ -47,7 +47,7 @@ Mingyu Guo: Game Theory  </br>
 
 ## Open Source Code
 
-[FOCUS (Detection)](https://github.com/Adelaide-AI-Group/FCOS) </br>
+[FOCUS (Object Detection)](https://github.com/Adelaide-AI-Group/FCOS) </br>
 [PALNet (Semantic Scene Completion)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [G2D (Synthetic Tool)](https://github.com/Adelaide-AI-Group/G2D) </br>
 [MCVL (Place Recognition)](https://github.com/Adelaide-AI-Group/MCVL) </br>
