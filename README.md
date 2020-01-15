@@ -51,7 +51,19 @@ Mingyu Guo: Game Theory  </br>
 [PALNet (Semantic Scene Completion)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [G2D (Synthetic Tool)](https://github.com/Adelaide-AI-Group/G2D) </br>
 [MCVL (Place Recognition)](https://github.com/Adelaide-AI-Group/MCVL) </br>
-[ST-CLSM (Video Depth Estimation)](https://github.com/Adelaide-AI-Group/ST-CLSTM)
+[ST-CLSM (Video Depth Estimation)](https://github.com/Adelaide-AI-Group/ST-CLSTM)</br> 
+
+[structure_knowledge_distillation (semantic segmentation)](https://github.com/Adelaide-AI-Group/structure_knowledge_distillation) </br>
+
+[completion3D (3D Object Point Cloud)](https://github.com/Adelaide-AI-Group/completion3d) </br>
+
+[AHDRNet (High Dynamic Range Imaging)](https://github.com/Adelaide-AI-Group/AHDRNet) </br>
+
+[NAS-Segm (Semantic Segmentation)](https://github.com/Adelaide-AI-Group/nas-segm-pytorch) </br>
+
+[CaNet (Class-Agnostic Segmentation)](https://github.com/Adelaide-AI-Group/CaNet) </br>
+
+[ASIS (Point Cloud Segmentation)](https://github.com/Adelaide-AI-Group/ASIS)
 
 ## Join/Contribute the Group
 If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
