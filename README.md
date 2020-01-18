@@ -9,7 +9,7 @@
 [Anton van den Hengel](https://www.adelaide.edu.au/directory/anton.vandenhengel): VQA  </br>
 [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/): Segmentation </br>
 [Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php): Optimization </br>
-Anthony Dick: Tracking     </br>
+[Anthony Dick](https://cs.adelaide.edu.au/~ard/): Tracking     </br>
 Qinfeng Shi: Graph Model   </br>
 Lingqiao Liu: Semi-supervised Learning </br>
 Qi Wu: VQA   </br>
