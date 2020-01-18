@@ -12,7 +12,7 @@
 [Anthony Dick](https://cs.adelaide.edu.au/~ard/): Tracking     </br>
 [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/): Graph Model   </br>
 [Lingqiao Liu](https://sites.google.com/site/lingqiaoliu83/): Semi-supervised Learning </br>
-Qi Wu: VQA   </br>
+[Qi Wu](http://www.qi-wu.me/): VQA   </br>
 
 
 Frank Neumann: Optimization  </br>
