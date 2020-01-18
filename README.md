@@ -8,7 +8,7 @@
 [David Suter](https://cs.adelaide.edu.au/~dsuter/) (left since 2017): Optimization </br> 
 [Anton van den Hengel](https://www.adelaide.edu.au/directory/anton.vandenhengel): VQA  </br>
 [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/): Segmentation </br>
-Tat-Jun Chin: Optimization </br>
+[Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php): Optimization </br>
 Anthony Dick: Tracking     </br>
 Qinfeng Shi: Graph Model   </br>
 Lingqiao Liu: Semi-supervised Learning </br>
