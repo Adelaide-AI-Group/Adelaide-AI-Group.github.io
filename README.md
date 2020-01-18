@@ -68,4 +68,4 @@ If you don't have experience in AI but would love to know, to learn, to dicuss s
 Every contribution (suggestion, advice, comments) is welcome. Please drop an email to open.adelaide@gmail.com.
 
 ## Support
-Yu Liu, Zhi Tian, Xiaowei Wang, Qiaoyang Luo, Rahul Verma
+[Yu Liu] (https://sites.google.com/site/yuliuunilau/home), [Zhi Tian] (https://github.com/tianzhi0549), [Xiaowei Wang](https://www.linkedin.com/in/mattwxw/?originalSubdomain=au), [Qiaoyang Luo](https://www.linkedin.com/in/qiaoyang-luo-053957142/?originalSubdomain=au), Rahul Verma
