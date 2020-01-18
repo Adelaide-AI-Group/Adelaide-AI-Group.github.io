@@ -4,8 +4,8 @@
 
 
 ## Staff
-[Ian Reid](https://cs.adelaide.edu.au/~ianr/)(Since 2012): SLAM   </br>
-David Suter (left since 2017): Optimization </br> 
+[Ian Reid](https://cs.adelaide.edu.au/~ianr/) (Since 2012): SLAM   </br>
+[David Suter](https://cs.adelaide.edu.au/~dsuter/) (left since 2017): Optimization </br> 
 Anton van den Hengel: VQA  </br>
 Chunhua Shen: Segmentation </br>
 Tat-Jun Chin: Optimization </br>
