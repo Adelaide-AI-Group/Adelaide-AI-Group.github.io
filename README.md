@@ -15,7 +15,7 @@
 [Qi Wu](http://www.qi-wu.me/): VQA   </br>
 
 
-Frank Neumann: Optimization  </br>
+[Frank Neumann](https://cs.adelaide.edu.au/~frank/): Optimization  </br>
 Mingyu Guo: Game Theory  </br>
 
 ## Benchmark Dataset
