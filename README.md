@@ -11,7 +11,7 @@
 [Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php): Optimization </br>
 [Anthony Dick](https://cs.adelaide.edu.au/~ard/): Tracking     </br>
 [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/): Graph Model   </br>
-Lingqiao Liu: Semi-supervised Learning </br>
+[Lingqiao Liu](https://sites.google.com/site/lingqiaoliu83/): Semi-supervised Learning </br>
 Qi Wu: VQA   </br>
 
 
