@@ -16,7 +16,7 @@
 
 
 [Frank Neumann](https://cs.adelaide.edu.au/~frank/): Optimization  </br>
-Mingyu Guo: Game Theory  </br>
+[Mingyu Guo](https://cs.adelaide.edu.au/users/mingyu/): Game Theory  </br>
 
 ## Benchmark Dataset
 
