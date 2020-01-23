@@ -8,6 +8,7 @@
 [David Suter](https://cs.adelaide.edu.au/~dsuter/) (left since 2017): Optimization </br> 
 [Anton van den Hengel](https://www.adelaide.edu.au/directory/anton.vandenhengel): VQA  </br>
 [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/): Segmentation </br>
+[Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/): Medical Image Processing </br>
 [Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php): Optimization </br>
 [Anthony Dick](https://cs.adelaide.edu.au/~ard/): Tracking     </br>
 [Qinfeng Shi](https://cs.adelaide.edu.au/~javen/): Graph Model   </br>
