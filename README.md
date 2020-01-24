@@ -58,7 +58,15 @@
 [AHDRNet (High Dynamic Range Imaging)](https://github.com/Adelaide-AI-Group/AHDRNet) </br>
 [NAS-Segm (Semantic Segmentation)](https://github.com/Adelaide-AI-Group/nas-segm-pytorch) </br>
 [CaNet (Class-Agnostic Segmentation)](https://github.com/Adelaide-AI-Group/CaNet) </br>
-[ASIS (Point Cloud Segmentation)](https://github.com/Adelaide-AI-Group/ASIS)
+[ASIS (Point Cloud Segmentation)](https://github.com/Adelaide-AI-Group/ASIS)</br>
+[DSLT](https://github.com/Adelaide-AI-Group/DSLT)</br>
+[Depth-VO-Feat](https://github.com/Adelaide-AI-Group/DSLT)</br>
+[MaxConTreeSearch](https://github.com/Adelaide-AI-Group/MaxConTreeSearch)</br>
+[bdn-refremv](https://github.com/Adelaide-AI-Group/MaxConTreeSearch)</br>
+[Unsupervised-Depth-Estimation](https://github.com/Adelaide-AI-Group/MaxConTreeSearch)</br>
+[frwgan-eccv](https://github.com/Adelaide-AI-Group/frwgan-eccv18)</br>
+[Demo-Deterministic-consensus-maximization](https://github.com/Adelaide-AI-Group/Demo---Deterministic-consensus-maximization-with-biconvex-programming)</br>
+
 
 ## Join/Contribute the Group
 If you are a researcher (Ph.D, PostDoc, Engineer,Visiting student) and work in AI related field from Adelaide. Please contact
