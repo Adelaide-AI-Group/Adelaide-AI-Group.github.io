@@ -72,6 +72,11 @@
 [indexnet_matting](https://github.com/Adelaide-AI-Group/indexnet_matting)</br>
 [ST-CLSTM](https://github.com/Adelaide-AI-Group/ST-CLSTM-1)</br>
 [memae-anomaly-detection](https://github.com/Adelaide-AI-Group/memae-anomaly-detection)</br>
+[Maximizing-rigidity-revisited](Maximizing-rigidity-revisited)
+[Towards-Context-aware-Interaction-Recognition-for-Visual-Relationship-Detection](Towards-Context-aware-Interaction-Recognition-for-Visual-Relationship-Detection)
+[pcst-fast-matlab](https://github.com/Adelaide-AI-Group/pcst-fast-matlab)
+[TAISL](https://github.com/Adelaide-AI-Group/TAISL)
+[Quasiconvex Plane Sweep for Triangulation With Outliers](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Zhang_Quasiconvex_Plane_Sweep_ICCV_2017_supplemental.zip)
 
 
 ## Join/Contribute the Group
