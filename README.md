@@ -66,6 +66,12 @@
 [Unsupervised-Depth-Estimation](https://github.com/Adelaide-AI-Group/MaxConTreeSearch)</br>
 [frwgan-eccv](https://github.com/Adelaide-AI-Group/frwgan-eccv18)</br>
 [Demo-Deterministic-consensus-maximization](https://github.com/Adelaide-AI-Group/Demo---Deterministic-consensus-maximization-with-biconvex-programming)</br>
+[S-DCNet](https://github.com/xhp-hust-2018-2011/S-DCNet)</br>
+[PAST](https://github.com/Adelaide-AI-Group/PAST-ReID)</br>
+[VNL_Monocular_Depth_Prediction](https://github.com/Adelaide-AI-Group/VNL_Monocular_Depth_Prediction)</br>
+[indexnet_matting](https://github.com/Adelaide-AI-Group/indexnet_matting)</br>
+[ST-CLSTM](https://github.com/Adelaide-AI-Group/ST-CLSTM-1)</br>
+[memae-anomaly-detection](https://github.com/Adelaide-AI-Group/memae-anomaly-detection)</br>
 
 
 ## Join/Contribute the Group
