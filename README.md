@@ -47,10 +47,7 @@
 
 
 ## Open Source Code
-### Object Detection
 [FOCUS (Object Detection)](https://github.com/Adelaide-AI-Group/FCOS) </br>
-
-### Object Segmentation
 [PALNet (Semantic Scene Completion)](https://github.com/Adelaide-AI-Group/PALNet) </br>
 [G2D (Synthetic Tool)](https://github.com/Adelaide-AI-Group/G2D) </br>
 [MCVL (Place Recognition)](https://github.com/Adelaide-AI-Group/MCVL) </br>
