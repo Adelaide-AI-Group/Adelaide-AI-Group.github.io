@@ -59,7 +59,7 @@
 [NAS-Segm (Semantic Segmentation)](https://github.com/Adelaide-AI-Group/nas-segm-pytorch) </br>
 [CaNet (Class-Agnostic Segmentation)](https://github.com/Adelaide-AI-Group/CaNet) </br>
 [ASIS (Point Cloud Segmentation)](https://github.com/Adelaide-AI-Group/ASIS)</br>
-[DSLT](https://github.com/Adelaide-AI-Group/DSLT)</br>
+[DSLT(Visual Object Tracking)](https://github.com/Adelaide-AI-Group/DSLT)</br>
 [Depth-VO-Feat](https://github.com/Adelaide-AI-Group/DSLT)</br>
 [MaxConTreeSearch](https://github.com/Adelaide-AI-Group/MaxConTreeSearch)</br>
 [bdn-refremv](https://github.com/Adelaide-AI-Group/MaxConTreeSearch)</br>
