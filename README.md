@@ -70,7 +70,6 @@
 [PAST](https://github.com/Adelaide-AI-Group/PAST-ReID)</br>
 [VNL_Monocular_Depth_Prediction](https://github.com/Adelaide-AI-Group/VNL_Monocular_Depth_Prediction)</br>
 [indexnet_matting](https://github.com/Adelaide-AI-Group/indexnet_matting)</br>
-[ST-CLSTM](https://github.com/Adelaide-AI-Group/ST-CLSTM-1)</br>
 [memae-anomaly-detection](https://github.com/Adelaide-AI-Group/memae-anomaly-detection)</br>
 [Maximizing-rigidity-revisited](Maximizing-rigidity-revisited)</br>
 [Towards-Context-aware-Interaction-Recognition-for-Visual-Relationship-Detection](Towards-Context-aware-Interaction-Recognition-for-Visual-Relationship-Detection)</br>
